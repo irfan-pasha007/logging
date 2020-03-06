@@ -1,0 +1,8 @@
+[http-nio-8080-exec-3] DEBUG com.ito.loggerExample.logg.LogController  - its debugging  -----------------
+[http-nio-8080-exec-3] INFO  com.ito.loggerExample.logg.LogController  - Info level log message
+[http-nio-8080-exec-3] DEBUG com.ito.loggerExample.logg.LogController  - Debug level log message
+[http-nio-8080-exec-3] ERROR com.ito.loggerExample.logg.LogController  - Error level log message
+[http-nio-8080-exec-1] DEBUG com.ito.loggerExample.logg.LogController  - its debugging  -----------------
+[http-nio-8080-exec-1] INFO  com.ito.loggerExample.logg.LogController  - Info level log message
+[http-nio-8080-exec-1] DEBUG com.ito.loggerExample.logg.LogController  - Debug level log message
+[http-nio-8080-exec-1] ERROR com.ito.loggerExample.logg.LogController  - Error level log message
